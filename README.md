@@ -5,18 +5,13 @@ Bu proje, RabbitMQ kullanarak ödeme servisinin temellerini oluşturmak için ge
 ## Kurulum
 
 1. Projeyi klonlayın:
-   ```bash
    git clone https://github.com/VolkanEgeKilinc/PaymentServiceWithRabbitMQ.git
-Bağımlılıkları yükleyin:
 
-bash
-Kodu kopyala
+Bağımlılıkları yükleyin:
 cd PaymentServiceWithRabbitMQ
 npm install
-Projeyi başlatın:
 
-bash
-Kodu kopyala
+Projeyi başlatın:
 npm start
 Sunucu, http://localhost:3000 adresinde çalışacaktır.
 
