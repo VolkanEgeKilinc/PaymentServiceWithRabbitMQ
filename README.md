@@ -2,6 +2,8 @@
 
 Bu proje, RabbitMQ kullanarak ödeme servisinin temellerini oluşturmak için geliştirilmiştir. Express.js ile oluşturulmuş bir API ve RabbitMQ ile mesajlaşma özelliklerine sahiptir.
 
+## VIDEO LINKI: 
+
 ## Kurulum
 
 1. Projeyi klonlayın:
